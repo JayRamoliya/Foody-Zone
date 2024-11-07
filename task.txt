@@ -1,0 +1,75 @@
+link: https://www.youtube.com/watch?v=i__4ul5yXFc
+
+1. you first download this starter file : https://github.com/anshuopinion/React-10-Projects/tree/project-4-starter
+
+2. copy only server folder and paste here 
+
+3.  inside server folder,
+    npm i
+    npm run server
+    http://localhost:9000/ check here
+    you can batter view download google chrome extensions JSON Formatter
+
+4. download all image inside images folder
+
+5. install react with vite : npm create vite@latest
+
+6. clean all file like css and jsx
+
+7. install styled-components
+
+6. inside App.jsx two components,
+    Container
+    TopContainer
+    write a css for both container
+
+7. how to import global css in styled components inside main.jsx
+    write a css 
+    use components in main.jsx
+
+8. inside App.jsx two components
+    FilterContainer
+    Button 
+    write a css for both container
+
+9. inside App.jsx two components
+    FoodCardContainer
+    FoodCards
+    write a css for both container 
+    this two components move into SearchResult.jsx file
+
+10. create a state for data store,
+    create a loading state
+    create a error state
+
+11. perform network call using fetch api,
+    inside useEffect,
+    fetch data and convert in json
+
+12. create a components folder,
+    inside one more SearchResult folder
+    inside SearchResult.jsx file
+    import SearchResult.jsx inside App.jsx
+    and pass props like data
+
+13. FoodCardContainer
+    FoodCards
+    this two components cut inside App.jsx with styled components
+    here paste 
+    new FoodCard components create 
+    inside FoodCard - display data using map method
+    export Button styled from App.jsx
+
+14. write css for FoodCard component in SearchResult.jsx
+    write css for FoodCards component in SearchResult.jsx
+    
+15. add Inter font from google fonts
+
+16. Adding Search Functionality on Input Search into SearchResult.jsx
+   -  Adding Search Functionality on Buttons (All, Breakfast, Lunch, Dinner) into SearchResult.jsx
+
+summary - how to use useEffect for calling api 
+        - Adding filters for search Functionality
+        - Responsive Design
+
+
